@@ -1,0 +1,9 @@
+endl=endline
+array a[.]={ , , ,}
+string is keyword for string data type.
+while loop as same as in c
+while{
+..
+..
+..
+}

@@ -1,0 +1,2 @@
+Write statement used to convert the decimal to binary?
+Integer.toHexString(y)
